@@ -1,0 +1,9 @@
+Package: me.devbug.multigestureappname
+Name: Multitasking Gestures App Name
+Depends: mobilesubstrate, gsc.ipad, gsc.multitasking-gestures
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: You can see Multitasking Gestures view with app's name.
+Maintainer: deVbug <devbug@devbug.me>
+Author: deVbug <devbug@devbug.me>
+Section: Tweaks
